@@ -52,11 +52,11 @@ public class Main {
                 double hesap = maas + bonus - vergi;
                     
                     
-                    System.out.println("Vergi ve Bonuslar ile birlikte maaş : " + hesap);
+                System.out.println("Vergi ve Bonuslar ile birlikte maaş : " + hesap);
                 double toplam = maas + bonus + zam - vergi;
                     
                     
-                    System.out.println("Toplam maaş : " + toplam + " TL");
+                System.out.println("Toplam maaş : " + toplam + " TL");
             }
 
 
