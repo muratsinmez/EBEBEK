@@ -50,12 +50,12 @@ public class Main {
                         System.out.println("Personel maaş artışı : " + zam + " TL");
                     }
                 double hesap = maas + bonus - vergi;
-                    List<Float> zamsiz_maas = new ArrayList<>();
-                    zamsiz_maas.add((float) hesap);
+                    
+                    
                     System.out.println("Vergi ve Bonuslar ile birlikte maaş : " + hesap);
                 double toplam = maas + bonus + zam - vergi;
-                    List<Float>zamli_maas = new ArrayList<>();
-                    zamli_maas.add((float) toplam);
+                    
+                    
                     System.out.println("Toplam maaş : " + toplam + " TL");
             }
 
