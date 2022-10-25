@@ -13,7 +13,8 @@ public class Main {
     private static double zam;
 
     public static void main(String[] args) {
-        // mysql kullanarak veritabanından verileri çekerek hesaplama yöntemi
+        // mysql kullanarak veritabanından verileri çekerek hesaplama yöntemi 
+        // Kendi bilgisayarımda bir veritabanı oluşturup bağlandığım için bu metodu çalıştığından emin olduktan sonra yorum olarak bıraktım.
         /*
         try {
 
